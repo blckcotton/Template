@@ -8,3 +8,5 @@ Please limit the individual uploads to 20 Mbytes or less. The max allowed is 100
 
 Github was developed mainly to track code  development in a group environment. Your project folder can be cloned directly here at the same level of the main folders. This will ensure that Github versioning and other functionalities are available to your project folder. For this,
 you may have to copy the contents (not the pareent folder) directly into your desktop folder. Or, better  yet, you  can  maintain a separate tab at Github for that. More on this soon!
+
+##The group of CK and Jamaine will be focusing on calorie intake in reference to weight management!
