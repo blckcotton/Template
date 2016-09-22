@@ -1,0 +1,237 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="2116" measuredH="3090" mockupW="2116" mockupH="3090">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Arrow" x="476" y="284" w="95" h="392" measuredW="150" measuredH="100" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="__group__" x="131" y="2517" w="282" h="573" measuredW="282" measuredH="573" zOrder="1" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="2">
+          <controlProperties>
+            <model>IPhone5</model>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::BlockOfText" x="32" y="114" w="219" h="356" measuredW="275" measuredH="80" zOrder="1" locked="false" isInGroup="2"/>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::iPhone" x="392" y="664" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Button" x="448" y="815" w="170" h="54" measuredW="86" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Eco-House</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Button" x="448" y="892" w="170" h="54" measuredW="80" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Recycling</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Button" x="448" y="974" w="170" h="54" measuredW="117" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Climate%20Change</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Arrow" x="616" y="994" w="180" h="49" measuredW="150" measuredH="100" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::iPhone" x="734" y="1054" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Image" x="757" y="1212" w="237" h="256" measuredW="1789" measuredH="1787" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>http%3A//vignette1.wikia.nocookie.net/xenosaga/images/1/1e/Earth.png/revision/20141111161920</src>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="__group__" x="586" y="2517" w="282" h="573" measuredW="282" measuredH="573" zOrder="9" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="23">
+          <controlProperties>
+            <model>IPhone5</model>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::BlockOfText" x="32" y="114" w="219" h="356" measuredW="275" measuredH="80" zOrder="1" locked="false" isInGroup="23"/>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="24" controlTypeID="__group__" x="1052" y="2517" w="282" h="573" measuredW="282" measuredH="573" zOrder="10" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="24">
+          <controlProperties>
+            <model>IPhone5</model>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::BlockOfText" x="32" y="114" w="219" h="356" measuredW="275" measuredH="80" zOrder="1" locked="false" isInGroup="24"/>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="25" controlTypeID="__group__" x="1295" y="1054" w="282" h="573" measuredW="282" measuredH="573" zOrder="11" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="25">
+          <controlProperties>
+            <model>IPhone5</model>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::BlockOfText" x="32" y="114" w="219" h="356" measuredW="275" measuredH="80" zOrder="1" locked="false" isInGroup="25"/>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Arrow" x="924" y="1340" w="410" h="30" measuredW="150" measuredH="100" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::iPhone" x="854" y="649" w="573" h="279" measuredW="573" measuredH="282" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+        <orientation>landscape</orientation>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Image" x="960" y="691" w="360" h="194" measuredW="250" measuredH="234" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>http%3A//www.how-to-draw-cartoons-online.com/image-files/cartoon_house.gif.pagespeed.ce.7s_pYaegFO.gif</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Arrow" x="592" y="828" w="262" h="10" measuredW="150" measuredH="100" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::iPhone" x="592" y="1705" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Arrow" x="624" y="920" w="78" h="757" measuredW="150" measuredH="100" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Image" x="644" y="1830" w="178" h="322" measuredW="945" measuredH="1334" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>https%3A//gsoedibleschoolyard.files.wordpress.com/2013/01/recycling-bin-cartoon.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Arrow" x="820" y="1956" w="354" h="543" measuredW="150" measuredH="100" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Arrow" x="720" y="2144" w="10" h="373" measuredW="150" measuredH="100" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Arrow" x="260" y="1964" w="369" h="520" measuredW="150" measuredH="100" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::iPhone" x="537" y="0" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Button" x="586" y="276" w="182" h="42" measuredW="88" measuredH="27" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Information</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Button" x="586" y="325" w="182" h="42" measuredW="65" measuredH="27" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Games</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Button" x="586" y="375" w="182" h="42" measuredW="47" measuredH="27" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Map</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Button" x="586" y="425" w="182" h="42" measuredW="66" measuredH="27" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Credits</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Title" x="595" y="128" w="167" h="-1" measuredW="183" measuredH="43" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>GO%20Green</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Title" x="623" y="180" w="-1" h="-1" measuredW="111" measuredH="43" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Green</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Button" x="448" y="1054" w="170" h="54" measuredW="112" measuredH="27" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Harry%20the%20Heap</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Arrow" x="298" y="1071" w="-1" h="-1" measuredW="150" measuredH="100" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::iPhone" x="80" y="1212" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::Image" x="146" y="1374" w="-1" h="-1" measuredW="150" measuredH="249" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>http%3A//www.mods.org/exhibits/GoGreen_Web-art2.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::Arrow" x="208" y="1785" w="10" h="96" measuredW="150" measuredH="100" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::iPhone" x="66" y="1881" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::BlockOfText" x="99" y="1984" w="215" h="384" measuredW="275" measuredH="80" zOrder="35" locked="false" isInGroup="-1"/>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="496" w="392" h="584" measuredW="200" measuredH="140" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>The%20%22Information%22%20screen%20gives%20the%20user%20the%20option%20of%20selceting%20one%20of%20four%20different%20options*%3A%20Eco-House%2C%20Recycling%2C%20Climate%20Change%2C%20and%20Harry%20the%20Heap.%20Each%20option%20provides%20the%20user%20with%20a%20different%20topic%2C%20covered%20in%20a%20unique%20way%2C%20each%20delving%20deeply%20into%20their%20respective%20subjects%20in%20a%20way%20that%20is%20easily%20digestible%20by%20any%20user.%20**%0A%20%0A*These%20options%20and%20their%20content%20are%20subject%20to%20change.%0A%20%0A**The%20blocks%20of%20text%20do%20not%20accrutaley%20represent%20the%20way%20the%20information%20will%20be%20displayed%20and%20are%20solely%20place-holders%20in%20order%20to%20show%20that%20information%20will%20be%20displayed.</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::TextArea" x="1448" y="664" w="560" h="204" measuredW="200" measuredH="140" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>The%20Eco-House%20is%20an%20interactive%20house%20which%20instructs%20users%20of%20all%20age%20how%20they%20will%20be%20ble%20to%20reduce%20their%20carbon%20footprint%20in%20their%20own%20home%20in%20simple%20ways%20ranging%20from%20proper%20disposal%20of%20waste%20to%20installing%20solar%20panels%20and%20the%20cost%20and%20resources%20associated%20with%20each%20activity.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::TextArea" x="900" y="1815" w="784" h="288" measuredW="200" measuredH="140" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Our%20model%20for%20Recycling%20uses%20an%20interactive%20trash/recycling%20can%20which%20delves%20into%20the%20proper%20way%20to%20recycle%2C%20what%20to%20recycle%2C%20and%20the%20impacts%20of%20recycling%20and%20not%20recycling.%20These%20roucerses%20will%20be%20displayed%20through%20videos%2C%20interactive%20tools%2C%20and%20many%20other%20ways%20to%20engage%20any%20user%20in%20the%20topic%20of%20recycling%20and%20the%20methods%20used.</text>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::TextArea" x="1592" y="1171" w="524" h="313" measuredW="200" measuredH="140" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>The%20climate%20change%20page%20includes%20an%20interactive%20map%20of%20the%20world%20in%20order%20to%20give%20the%20user%20a%20scope%20of%20what%20is%20happening%20on%20a%20global%20scale%20to%20combat%20the%20effects%20of%20climate%20change.%20This%20section%20of%20the%20app%20will%20also%20delve%20into%20the%20causes%20of%20climate%20change%20and%20tools%20that%20anyone%20can%20use%20to%20combat%20climate%20change%20on%20a%20personal%20level%2C%20and%20to%20allow%20people%20to%20understand%20the%20impact%20of%20climate%20change%20on%20our%20world.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::TextArea" x="377" y="1272" w="259" h="420" measuredW="200" measuredH="140" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Harry%20the%20Heap%20is%20the%20mascot%20of%20the%20Go-Green%20exhibit%20and%20in%20the%20application%20will%20be%20used%20as%20a%20segue%20between%20the%20application%20and%20the%20exhibit%20in%20the%20museum%20perhaps%20implementing%20elemetns%20of%20Augmented%20Reality%2C%20or%20a%20connection%20between%20the%20app%2C%20the%20museum%2C%20and%20the%20real%20world.%20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
